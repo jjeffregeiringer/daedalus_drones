@@ -1,0 +1,599 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.960000
+duration: 0.444
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N4G
+start time: 2021-10-29 16:49:13.798000
+end_time: 2021-10-29 16:49:13.875000
+duration: 0.077
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.515000
+end_time: None
+duration: None
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.674000
+duration: 0.158
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MMA
+start time: 2021-10-29 16:49:13.762000
+end_time: 2021-10-29 16:49:13.813000
+duration: 0.051
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.997000
+duration: 0.481
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N4T
+start time: 2021-10-29 16:49:13.804000
+end_time: 2021-10-29 16:49:13.878000
+duration: 0.074
+
+------
+Drone: 5
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.514000
+end_time: None
+duration: None
+
+------
+Drone: 6
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.514000
+end_time: 2021-10-29 16:49:08.882000
+duration: 0.368
+
+id: 1
+command: sn?
+response: None
+start time: 2021-10-29 16:49:13.793000
+end_time: None
+duration: None
+
+------
+Drone: 7
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.514000
+end_time: 2021-10-29 16:49:08.711000
+duration: 0.197
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JQV
+start time: 2021-10-29 16:49:13.768000
+end_time: 2021-10-29 16:49:13.819000
+duration: 0.051
+
+------
+Drone: 8
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.514000
+end_time: None
+duration: None
+
+------
+Drone: 9
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.514000
+end_time: 2021-10-29 16:49:08.824000
+duration: 0.31
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JV3
+start time: 2021-10-29 16:49:13.781000
+end_time: 2021-10-29 16:49:13.853000
+duration: 0.072
+
+------
+Drone: 10
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.636000
+duration: 0.121
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JTU
+start time: 2021-10-29 16:49:13.755000
+end_time: 2021-10-29 16:49:13.804000
+duration: 0.049
+
+------
+Drone: 11
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.514000
+end_time: None
+duration: None
+
+------
+Drone: 12
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.514000
+end_time: 2021-10-29 16:49:08.783000
+duration: 0.269
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JSA
+start time: 2021-10-29 16:49:13.779000
+end_time: 2021-10-29 16:49:13.844000
+duration: 0.065
+
+------
+Drone: 13
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.518000
+end_time: 2021-10-29 16:49:08.919000
+duration: 0.401
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MXU
+start time: 2021-10-29 16:49:13.794000
+end_time: 2021-10-29 16:49:13.867000
+duration: 0.073
+
+------
+Drone: 14
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.518000
+end_time: None
+duration: None
+
+------
+Drone: 15
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.517000
+end_time: 2021-10-29 16:49:08.748000
+duration: 0.231
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MDB
+start time: 2021-10-29 16:49:13.771000
+end_time: 2021-10-29 16:49:13.837000
+duration: 0.066
+
+------
+Drone: 16
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:09.036000
+duration: 0.52
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01P8D
+start time: 2021-10-29 16:49:13.809000
+end_time: 2021-10-29 16:49:13.897000
+duration: 0.088
+
+------
+Drone: 17
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.517000
+end_time: 2021-10-29 16:49:08.618000
+duration: 0.101
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MGX
+start time: 2021-10-29 16:49:13.753000
+end_time: 2021-10-29 16:49:13.793000
+duration: 0.04
+
+------
+Drone: 18
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.517000
+end_time: 2021-10-29 16:49:09.016000
+duration: 0.499
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N3F
+start time: 2021-10-29 16:49:13.806000
+end_time: 2021-10-29 16:49:13.885000
+duration: 0.079
+
+------
+Drone: 19
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.517000
+end_time: 2021-10-29 16:49:09.057000
+duration: 0.54
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MKP
+start time: 2021-10-29 16:49:13.811000
+end_time: 2021-10-29 16:49:13.893000
+duration: 0.082
+
+------
+Drone: 20
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.519000
+end_time: None
+duration: None
+
+------
+Drone: 21
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.977000
+duration: 0.461
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MGH
+start time: 2021-10-29 16:49:13.804000
+end_time: 2021-10-29 16:49:13.888000
+duration: 0.084
+
+------
+Drone: 22
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.657000
+duration: 0.141
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MU0
+start time: 2021-10-29 16:49:13.759000
+end_time: 2021-10-29 16:49:13.823000
+duration: 0.064
+
+------
+Drone: 23
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.801000
+duration: 0.286
+
+id: 1
+command: sn?
+response: 0TQZJ5XED01HBG
+start time: 2021-10-29 16:49:13.779000
+end_time: 2021-10-29 16:49:13.847000
+duration: 0.068
+
+------
+Drone: 24
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.843000
+duration: 0.328
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JXF
+start time: 2021-10-29 16:49:13.783000
+end_time: 2021-10-29 16:49:13.859000
+duration: 0.076
+
+------
+Drone: 25
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.515000
+end_time: None
+duration: None
+
+------
+Drone: 26
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.515000
+end_time: None
+duration: None
+
+------
+Drone: 27
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.901000
+duration: 0.386
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JQR
+start time: 2021-10-29 16:49:13.792000
+end_time: 2021-10-29 16:49:13.862000
+duration: 0.07
+
+------
+Drone: 28
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.729000
+duration: 0.214
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JWW
+start time: 2021-10-29 16:49:13.771000
+end_time: 2021-10-29 16:49:13.833000
+duration: 0.062
+
+------
+Drone: 29
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.515000
+end_time: 2021-10-29 16:49:08.765000
+duration: 0.25
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JRD
+start time: 2021-10-29 16:49:13.776000
+end_time: 2021-10-29 16:49:13.841000
+duration: 0.065
+
+------
+Drone: 30
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.518000
+end_time: 2021-10-29 16:49:08.861000
+duration: 0.343
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N38
+start time: 2021-10-29 16:49:13.786000
+end_time: 2021-10-29 16:49:13.856000
+duration: 0.07
+
+------
+Drone: 31
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.519000
+end_time: None
+duration: None
+
+------
+Drone: 32
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.937000
+duration: 0.421
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N3S
+start time: 2021-10-29 16:49:13.797000
+end_time: 2021-10-29 16:49:13.872000
+duration: 0.075
+
+------
+Drone: 33
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.516000
+end_time: 2021-10-29 16:49:08.695000
+duration: 0.179
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01N3V
+start time: 2021-10-29 16:49:13.767000
+end_time: 2021-10-29 16:49:13.826000
+duration: 0.059
+
+------
+Drone: 34
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.517000
+end_time: 2021-10-29 16:49:08.595000
+duration: 0.078
+
+id: 1
+command: sn?
+response: 0TQZJ75ED01MJK
+start time: 2021-10-29 16:49:13.750000
+end_time: 2021-10-29 16:49:13.784000
+duration: 0.034
+
+------
+Drone: 35
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.513000
+end_time: None
+duration: None
+
+------
+Drone: 36
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.513000
+end_time: None
+duration: None
+
+------
+Drone: 37
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.513000
+end_time: None
+duration: None
+
+------
+Drone: 38
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.513000
+end_time: None
+duration: None
+
+------
+Drone: 39
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.513000
+end_time: 2021-10-29 16:49:08.544000
+duration: 0.031
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JSV
+start time: 2021-10-29 16:49:13.748000
+end_time: 2021-10-29 16:49:13.829000
+duration: 0.081
+
+------
+Drone: 40
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 16:49:08.513000
+end_time: None
+duration: None
+
+------
+Drone: 41
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 16:49:08.514000
+end_time: 2021-10-29 16:49:09.076000
+duration: 0.562
+
+id: 1
+command: sn?
+response: 0TQZJ62ED01JU2
+start time: 2021-10-29 16:49:13.814000
+end_time: 2021-10-29 16:49:13.902000
+duration: 0.088
+

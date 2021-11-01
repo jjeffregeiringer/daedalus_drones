@@ -1,0 +1,240 @@
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5
+*>stop
+delay 5
+sync 5

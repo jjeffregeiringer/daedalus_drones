@@ -1,0 +1,730 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2021-10-29 17:16:34.970000
+end_time: None
+duration: None
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.120000
+duration: 0.151
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.507000
+end_time: 2021-10-29 17:16:40.616000
+duration: 0.109
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.232000
+duration: 0.262
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.542000
+end_time: 2021-10-29 17:16:40.673000
+duration: 0.131
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.154000
+duration: 0.184
+
+id: 1
+command: battery?
+response: 84
+
+start time: 2021-10-29 17:16:40.522000
+end_time: 2021-10-29 17:16:40.630000
+duration: 0.108
+
+------
+Drone: 5
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:35.024000
+duration: 0.056
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.478000
+end_time: 2021-10-29 17:16:40.542000
+duration: 0.064
+
+------
+Drone: 6
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:35.074000
+duration: 0.106
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.493000
+end_time: 2021-10-29 17:16:40.585000
+duration: 0.092
+
+------
+Drone: 7
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:34.995000
+duration: 0.027
+
+id: 1
+command: battery?
+response: 89
+
+start time: 2021-10-29 17:16:40.470000
+end_time: 2021-10-29 17:16:40.504000
+duration: 0.034
+
+------
+Drone: 8
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:35.269000
+duration: 0.301
+
+id: 1
+command: battery?
+response: 87
+
+start time: 2021-10-29 17:16:40.555000
+end_time: 2021-10-29 17:16:40.692000
+duration: 0.137
+
+------
+Drone: 9
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:35.090000
+duration: 0.122
+
+id: 1
+command: battery?
+response: 89
+
+start time: 2021-10-29 17:16:40.502000
+end_time: 2021-10-29 17:16:40.596000
+duration: 0.094
+
+------
+Drone: 10
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.187000
+duration: 0.218
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.533000
+end_time: 2021-10-29 17:16:40.649000
+duration: 0.116
+
+------
+Drone: 11
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:34.989000
+duration: 0.021
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.470000
+end_time: 2021-10-29 17:16:40.494000
+duration: 0.024
+
+------
+Drone: 12
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.968000
+end_time: 2021-10-29 17:16:35.245000
+duration: 0.277
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.550000
+end_time: 2021-10-29 17:16:40.682000
+duration: 0.132
+
+------
+Drone: 13
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.239000
+duration: 0.268
+
+id: 1
+command: battery?
+response: 87
+
+start time: 2021-10-29 17:16:40.544000
+end_time: 2021-10-29 17:16:40.677000
+duration: 0.133
+
+------
+Drone: 14
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.146000
+duration: 0.175
+
+id: 1
+command: battery?
+response: 93
+
+start time: 2021-10-29 17:16:40.518000
+end_time: 2021-10-29 17:16:40.620000
+duration: 0.102
+
+------
+Drone: 15
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.301000
+duration: 0.33
+
+id: 1
+command: battery?
+response: 89
+
+start time: 2021-10-29 17:16:40.570000
+end_time: 2021-10-29 17:16:40.722000
+duration: 0.152
+
+------
+Drone: 16
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.254000
+duration: 0.284
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.551000
+end_time: 2021-10-29 17:16:40.687000
+duration: 0.136
+
+------
+Drone: 17
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.068000
+duration: 0.097
+
+id: 1
+command: battery?
+response: 85
+
+start time: 2021-10-29 17:16:40.491000
+end_time: 2021-10-29 17:16:40.580000
+duration: 0.089
+
+------
+Drone: 18
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.293000
+duration: 0.322
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.568000
+end_time: 2021-10-29 17:16:40.715000
+duration: 0.147
+
+------
+Drone: 19
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.042000
+duration: 0.071
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.487000
+end_time: 2021-10-29 17:16:40.558000
+duration: 0.071
+
+------
+Drone: 20
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.170000
+duration: 0.199
+
+id: 1
+command: battery?
+response: 94
+
+start time: 2021-10-29 17:16:40.526000
+end_time: 2021-10-29 17:16:40.634000
+duration: 0.108
+
+------
+Drone: 21
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.206000
+duration: 0.236
+
+id: 1
+command: battery?
+response: 86
+
+start time: 2021-10-29 17:16:40.536000
+end_time: 2021-10-29 17:16:40.659000
+duration: 0.123
+
+------
+Drone: 22
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.129000
+duration: 0.159
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.509000
+end_time: 2021-10-29 17:16:40.612000
+duration: 0.103
+
+------
+Drone: 23
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.060000
+duration: 0.091
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.489000
+end_time: 2021-10-29 17:16:40.574000
+duration: 0.085
+
+------
+Drone: 24
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.106000
+duration: 0.137
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.504000
+end_time: 2021-10-29 17:16:40.606000
+duration: 0.102
+
+------
+Drone: 25
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.260000
+duration: 0.291
+
+id: 1
+command: battery?
+response: 88
+
+start time: 2021-10-29 17:16:40.553000
+end_time: 2021-10-29 17:16:40.696000
+duration: 0.143
+
+------
+Drone: 26
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.218000
+duration: 0.249
+
+id: 1
+command: battery?
+response: 90
+
+start time: 2021-10-29 17:16:40.538000
+end_time: 2021-10-29 17:16:40.664000
+duration: 0.126
+
+------
+Drone: 27
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.010000
+duration: 0.041
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.474000
+end_time: 2021-10-29 17:16:40.535000
+duration: 0.061
+
+------
+Drone: 28
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.035000
+duration: 0.066
+
+id: 1
+command: battery?
+response: 90
+
+start time: 2021-10-29 17:16:40.481000
+end_time: 2021-10-29 17:16:40.552000
+duration: 0.071
+
+------
+Drone: 29
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.969000
+end_time: 2021-10-29 17:16:35.136000
+duration: 0.167
+
+id: 1
+command: battery?
+response: 90
+
+start time: 2021-10-29 17:16:40.511000
+end_time: 2021-10-29 17:16:40.626000
+duration: 0.115
+
+------
+Drone: 30
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.289000
+duration: 0.318
+
+id: 1
+command: battery?
+response: 84
+
+start time: 2021-10-29 17:16:40.564000
+end_time: 2021-10-29 17:16:40.702000
+duration: 0.138
+
+------
+Drone: 31
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.972000
+end_time: 2021-10-29 17:16:35.275000
+duration: 0.303
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.557000
+end_time: 2021-10-29 17:16:40.706000
+duration: 0.149
+
+------
+Drone: 32
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.225000
+duration: 0.255
+
+id: 1
+command: battery?
+response: 86
+
+start time: 2021-10-29 17:16:40.540000
+end_time: 2021-10-29 17:16:40.668000
+duration: 0.128
+
+------
+Drone: 33
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.970000
+end_time: 2021-10-29 17:16:35.084000
+duration: 0.114
+
+id: 1
+command: battery?
+response: 94
+
+start time: 2021-10-29 17:16:40.495000
+end_time: 2021-10-29 17:16:40.589000
+duration: 0.094
+
+------
+Drone: 34
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.971000
+end_time: 2021-10-29 17:16:35.019000
+duration: 0.048
+
+id: 1
+command: battery?
+response: 88
+
+start time: 2021-10-29 17:16:40.477000
+end_time: 2021-10-29 17:16:40.526000
+duration: 0.049
+
+------
+Drone: 35
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.966000
+end_time: 2021-10-29 17:16:35.111000
+duration: 0.145
+
+id: 1
+command: battery?
+response: 85
+
+start time: 2021-10-29 17:16:40.505000
+end_time: 2021-10-29 17:16:40.602000
+duration: 0.097
+
+------
+Drone: 36
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.195000
+duration: 0.228
+
+id: 1
+command: battery?
+response: 92
+
+start time: 2021-10-29 17:16:40.534000
+end_time: 2021-10-29 17:16:40.655000
+duration: 0.121
+
+------
+Drone: 37
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.051000
+duration: 0.084
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.487000
+end_time: 2021-10-29 17:16:40.569000
+duration: 0.082
+
+------
+Drone: 38
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.004000
+duration: 0.037
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.472000
+end_time: 2021-10-29 17:16:40.512000
+duration: 0.04
+
+------
+Drone: 39
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.162000
+duration: 0.195
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.523000
+end_time: 2021-10-29 17:16:40.641000
+duration: 0.118
+
+------
+Drone: 40
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.283000
+duration: 0.316
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.559000
+end_time: 2021-10-29 17:16:40.711000
+duration: 0.152
+
+------
+Drone: 41
+
+id: 0
+command: command
+response: ok
+start time: 2021-10-29 17:16:34.967000
+end_time: 2021-10-29 17:16:35.178000
+duration: 0.211
+
+id: 1
+command: battery?
+response: 100
+
+start time: 2021-10-29 17:16:40.528000
+end_time: 2021-10-29 17:16:40.645000
+duration: 0.117
+
