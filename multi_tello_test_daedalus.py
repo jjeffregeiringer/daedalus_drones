@@ -40,21 +40,20 @@ def all_got_response(manager):
 def save_log(manager):
     log = manager.get_log()
 
-    if not os.path.exists('log'):
-        try:
-            os.makedirs('log')
-        except Exception, e:
-            pass
+    os.makedirs('log', exist_ok = True)
 
-    out = open('log/' + start_time + '.txt', 'w')
+    log_title = start_time + '.txt'
+    log_name = os.path.join('log', log_title)
+
+    out = open(log_name, 'w')
     cnt = 1
     for stat_list in log.values():
         out.write('------\nDrone: %s\n' % cnt)
         cnt += 1
         for stat in stat_list:
             #stat.print_stats()
-            str = stat.return_stats()
-            out.write(str)
+            _str = stat.return_stats()
+            out.write(_str)
         out.write('\n')
     out.close()
 
@@ -73,6 +72,8 @@ try:
     commands = f.readlines()
 
     tello_list = []
+    tello_missing = []
+
     execution_pools = []
     sn_ip_dict = {}
     id_sn_dict = {}
@@ -104,12 +105,14 @@ try:
                     #str_cmd_index_dict_init_flag [x] = None
                     t1.daemon = True
                     t1.start()
+
+                print('post-threading id list: ' + str(sorted(fid_id_dict.values())) + '\n')
                 print('post-threading fid list: ' + str(ip_fid_dict.values()) + '\n')
                 print('(length: ' + str(len(ip_fid_dict.values())) + ')')
 
 
             elif '>' in command:
-                print('tello_list from > command: ' + str(tello_list) + '\n')
+                # print('tello_list from > command: ' + str(tello_list) + '\n')
                 id_list = []
                 _id = command.partition('>')[0]
                 if _id == '*': ##YOU CAN DO 'ALL!'
@@ -126,10 +129,15 @@ try:
                 for tello_id in id_list:
                     tmp_sn = id_sn_dict[tello_id]
                     reflec_ip = sn_ip_dict[tmp_sn]
-                    #fid = tello_id #buggy but roughly working
-                    fid = ip_fid_dict[reflec_ip]
-                    print('current fid: ' + str(fid) + '\n')
-                    execution_pools[fid].put(action)
+
+                    if reflec_ip in ip_fid_dict.keys():
+                        fid = ip_fid_dict[reflec_ip]
+                        print('current fid: ' + str(fid) + '\n')
+                        execution_pools[fid].put(action)
+                    else:
+                        tello_missing.append(reflec_ip)
+                        print('missing drones: ' + str(tello_missing))
+                        continue
 
             elif 'battery_check' in command:
                 
@@ -150,7 +158,7 @@ try:
 
                 for tello_log in manager.get_log().values():
                     battery = int(tello_log[-1].response)
-                    print ('[Battery_Show]show drone battery: %d  ip:%s\n' % (battery,tello_log[-1].drone_ip))
+                    print ('[Battery_Show]show drone battery: %d  ip:%s' % (battery,tello_log[-1].drone_ip))
                     if battery < threshold:
                         print('[Battery_Low]IP:%s  Battery < Threshold. Exiting...\n'%tello_log[-1].drone_ip)
                         save_log(manager)

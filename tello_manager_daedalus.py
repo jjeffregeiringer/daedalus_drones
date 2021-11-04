@@ -189,11 +189,11 @@ class Tello_Manager:
                 cmd = cmd_sof_str + command[3:]
                 self.socket.sendto(cmd.encode('utf-8'), (ip, 8889))
 
-            print '[Multi_Command]----Multi_Send----IP:%s----Command:   %s\n' % (ip, command[3:])           
+            print '[Multi_Command]----Multi_Send----IP:%s----Command:   %s' % (ip, command[3:])           
             real_command = command[3:]
         else:
             self.socket.sendto(command.encode('utf-8'), (ip, 8889))
-            print '[Single_Command]----Single_Send----IP:%s----Command:   %s\n' % (ip, command)
+            print '[Single_Command]----Single_Send----IP:%s----Command:   %s' % (ip, command)
             real_command = command
         
         self.log[ip].append(Stats(real_command, len(self.log[ip])))
@@ -229,11 +229,11 @@ class Tello_Manager:
                     
                     if response_index != self.last_response_index[ip]:
                         #print '--------------------------response_index:%x %x'%(response_index,self.last_response_index)
-                        print'[Multi_Response] ----Multi_Receive----IP:%s----Response:   %s ----\n' % (ip, self.response[7:])
+                        print'[Multi_Response] ----Multi_Receive----IP:%s----Response:   %s ----' % (ip, self.response[7:])
                         self.log[ip][-1].add_response(self.response[7:],ip)
                     self.last_response_index[ip] = response_index
                 else:
-                    print'[Single_Response]----Single_Receive----IP:%s----Response:   %s ----\n' % (ip, self.response)
+                    print'[Single_Response]----Single_Receive----IP:%s----Response:   %s ----' % (ip, self.response)
                     self.log[ip][-1].add_response(self.response,ip)
                 #print'[Response_WithIP]----Receive----IP:%s----Response:%s----\n' % (ip, self.response)
                          
