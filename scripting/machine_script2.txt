@@ -1,0 +1,460 @@
+//time(seconds) = 0
+9>takeoff
+10>takeoff
+11>takeoff
+12>takeoff
+13>takeoff
+14>takeoff
+15>takeoff
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 5
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 10
+9>go 0 0 50.000000 10.000000
+10>go 0 0 50.000000 10.000000
+11>go 0 0 50.000000 10.000000
+12>go 0 0 50.000000 10.000000
+13>go 0 0 50.000000 10.000000
+14>go 0 0 50.000000 10.000000
+15>go 0 0 50.000000 10.000000
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 15
+9>go 0 0 50.000000 10.000000
+10>go 0 0 50.000000 10.000000
+11>go 0 0 50.000000 10.000000
+12>go 0 0 50.000000 10.000000
+13>go 0 0 50.000000 10.000000
+14>go 0 0 50.000000 10.000000
+15>go 0 0 50.000000 10.000000
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 20
+9>go 0 0 50.000000 10.000000
+10>go 0 0 50.000000 10.000000
+11>go 0 0 50.000000 10.000000
+12>go 0 0 50.000000 10.000000
+13>go 0 0 50.000000 10.000000
+14>go 0 0 50.000000 10.000000
+15>go 0 0 50.000000 10.000000
+16>takeoff
+17>takeoff
+4>takeoff
+19>takeoff
+20>takeoff
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 25
+9>go 0 0 50.000000 10.000000
+10>go 0 0 50.000000 10.000000
+11>go 0 0 50.000000 10.000000
+12>go 0 0 50.000000 10.000000
+13>go 0 0 50.000000 10.000000
+14>go 0 0 50.000000 10.000000
+15>go 0 0 50.000000 10.000000
+16>go 0 0 87.500000 17.500000
+17>go 0 0 87.500000 17.500000
+4>go 0 0 87.500000 17.500000
+19>go 0 0 87.500000 17.500000
+20>go 0 0 87.500000 17.500000
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 30
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>go 0 0 87.500000 17.500000
+17>go 0 0 87.500000 17.500000
+4>go 0 0 87.500000 17.500000
+19>go 0 0 87.500000 17.500000
+20>go 0 0 87.500000 17.500000
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 35
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 40
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>takeoff
+22>takeoff
+23>takeoff
+24>takeoff
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 45
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>go 0 0 50.000000 10.000000
+22>go 0 0 50.000000 10.000000
+23>go 0 0 50.000000 10.000000
+24>go 0 0 50.000000 10.000000
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 50
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>go 0 0 50.000000 10.000000
+22>go 0 0 50.000000 10.000000
+23>go 0 0 50.000000 10.000000
+24>go 0 0 50.000000 10.000000
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 55
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>go 0 0 50.000000 10.000000
+22>go 0 0 50.000000 10.000000
+23>go 0 0 50.000000 10.000000
+24>go 0 0 50.000000 10.000000
+25>stop
+26>stop
+27>stop
+28>stop
+29>stop
+sync 5
+//time(seconds) = 60
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>takeoff
+26>takeoff
+27>takeoff
+28>stop
+29>stop
+sync 5
+//time(seconds) = 65
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>go 0 0 33.333333 6.666667
+26>go 0 0 33.333333 6.666667
+27>go 0 0 33.333333 6.666667
+28>stop
+29>stop
+sync 5
+//time(seconds) = 70
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>go 0 0 33.333333 6.666667
+26>go 0 0 33.333333 6.666667
+27>go 0 0 33.333333 6.666667
+28>stop
+29>stop
+sync 5
+//time(seconds) = 75
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>go 0 0 33.333333 6.666667
+26>go 0 0 33.333333 6.666667
+27>go 0 0 33.333333 6.666667
+28>stop
+29>stop
+sync 5
+//time(seconds) = 80
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>takeoff
+29>takeoff
+sync 5
+//time(seconds) = 85
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>go 0 0 16.666667 3.333333
+29>go 0 0 16.666667 3.333333
+sync 5
+//time(seconds) = 90
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>go 0 0 16.666667 3.333333
+29>go 0 0 16.666667 3.333333
+sync 5
+//time(seconds) = 95
+9>stop
+10>stop
+11>stop
+12>stop
+13>stop
+14>stop
+15>stop
+16>stop
+17>stop
+4>stop
+19>stop
+20>stop
+21>stop
+22>stop
+23>stop
+24>stop
+25>stop
+26>stop
+27>stop
+28>go 0 0 16.666667 3.333333
+29>go 0 0 16.666667 3.333333
+sync 5

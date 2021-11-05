@@ -1,0 +1,6 @@
+//assign groups
+group A = 1,50,53
+//commands
+//MAKE SURE THERE IS A GAP BETWEEN 'TAKEOFF' AND FIRST MOVE (per group is ok)
+A: 5s takeoff
+A: 10s-30s 300

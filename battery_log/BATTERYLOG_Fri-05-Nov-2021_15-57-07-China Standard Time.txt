@@ -1,0 +1,17 @@
+battery check #1:
+drone 33: 88%
+drone 34: 51%
+drone 35: 89%
+drone 36: 83%
+drone 37: 43%
+drone 38: 84%
+drone 39: 83%
+drone 40: 51%
+drone 42: 85%
+drone 43: 83%
+drone 44: 83%
+drone 45: 61%
+drone 46: 87%
+drone 47: 87%
+drone 48: 89%
+battery check #2:
