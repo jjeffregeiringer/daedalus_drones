@@ -1,5 +1,6 @@
 log/
 
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -7,3 +8,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+=======
+# C extensions
+*.so
