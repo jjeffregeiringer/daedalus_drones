@@ -1,0 +1,3 @@
+battery check #1:
+drone 25: 2%
+drone 26: 68%

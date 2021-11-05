@@ -1,0 +1,5 @@
+battery check #1:
+drone 17: error%
+drone 12: error%
+drone 53: 90%
+drone 1: 65%

@@ -1,0 +1,4 @@
+battery check #1:
+drone 41: 83%
+battery check #2:
+drone 41: 83%

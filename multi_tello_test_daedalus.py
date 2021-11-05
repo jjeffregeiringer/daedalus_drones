@@ -186,19 +186,20 @@ try:
                         battery = tello_log[-1].response
                         cur_id = int(ip_id_dict[tello_log[-1].drone_ip])
 
-                        battery_log[batt_check_num][cur_id] = battery
-
                         if battery == 'error':
                             print('%s battery died!!')
-                        # else:
+                            battery_log[batt_check_num][cur_id] = battery
+                        else:
+                            battery = int(battery)
+                            battery_log[batt_check_num][cur_id] = battery
                             # print ('[Battery_Show]show drone battery: %d  ip: %s' % (battery,tello_log[-1].drone_ip))
                             # print ('[Battery_Show]show drone battery: %d  ip: %s' % (battery,cur_id))
                             #print('battery %s: %s') % (cur_id, battery)
                     
-                        if battery < threshold:
-                            print('[Battery_Low]IP:%s  Battery < Threshold. Exiting...\n'%tello_log[-1].drone_ip)
-                            save_log(manager)
-                            exit(0)
+                            if battery < threshold:
+                                print('[Battery_Low]IP:%s  Battery < Threshold. Exiting...\n'%tello_log[-1].drone_ip)
+                                save_log(manager)
+                                exit(0)
 
                 for _id in battery_log[batt_check_num].keys():
                     print('drone %s battery: %s') % (_id, battery_log[batt_check_num][_id])
