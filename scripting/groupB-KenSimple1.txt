@@ -1,0 +1,17 @@
+//set duration
+duration 60
+//assign groups
+group F = 33,34
+group G = 35,36,37
+group H = 38,39,40,41,42,43
+group I = 44,45,46,47,48,49
+//commands
+//MAKE SURE THERE IS A GAP BETWEEN 'TAKEOFF' AND FIRST MOVE (per group is ok)
+F: 0s takeoff
+F: 5s-10s 244
+G: 0s takeoff
+G: 5s-10s 122
+H: 0s takeoff
+H: 5s-10s 305
+I: 0s takeoff
+I: 5s-10s 183
